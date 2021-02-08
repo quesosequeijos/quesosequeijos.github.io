@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on QuesoseQueijos</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on QuesoseQueijos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Red Pepper Miso Wings 2</title>
-      <link>http://example.org/post/red-pepper-miso-wings-2/</link>
+      <link>/post/red-pepper-miso-wings-2/</link>
       <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
       
-      <guid>http://example.org/post/red-pepper-miso-wings-2/</guid>
+      <guid>/post/red-pepper-miso-wings-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi delectus rerum, sed blanditiis eaque eum, ex et officia veritatis id hic. Deleniti eos ipsum, nihil ex id ipsa porro, accusantium, accusamus dignissimos harum, veniam culpa. Voluptate doloremque aspernatur neque vero tenetur numquam expedita ratione, sed, error exercitationem officia voluptatum molestiae quod impedit facilis, dolores laudantium quae rem! Rem obcaecati eum pariatur error quasi consequuntur repellendus aliquam vero perferendis, praesentium. Quas nulla, quae tempore omnis facere reiciendis, voluptatibus illum nemo consequuntur, magni voluptas doloremque eveniet quasi soluta porro sit cum?</description>
     </item>
     
     <item>
       <title>Red Pepper Miso Wings</title>
-      <link>http://example.org/post/red-pepper-miso-wings/</link>
+      <link>/post/red-pepper-miso-wings/</link>
       <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
       
-      <guid>http://example.org/post/red-pepper-miso-wings/</guid>
+      <guid>/post/red-pepper-miso-wings/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi delectus rerum, sed blanditiis eaque eum, ex et officia veritatis id hic. Deleniti eos ipsum, nihil ex id ipsa porro, accusantium, accusamus dignissimos harum, veniam culpa. Voluptate doloremque aspernatur neque vero tenetur numquam expedita ratione, sed, error exercitationem officia voluptatum molestiae quod impedit facilis, dolores laudantium quae rem! Rem obcaecati eum pariatur error quasi consequuntur repellendus aliquam vero perferendis, praesentium. Quas nulla, quae tempore omnis facere reiciendis, voluptatibus illum nemo consequuntur, magni voluptas doloremque eveniet quasi soluta porro sit cum?</description>
     </item>
     
     <item>
       <title>Homestyle Chicken Pot Pie</title>
-      <link>http://example.org/post/homestyle-chicken-pot-pie/</link>
+      <link>/post/homestyle-chicken-pot-pie/</link>
       <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
       
-      <guid>http://example.org/post/homestyle-chicken-pot-pie/</guid>
+      <guid>/post/homestyle-chicken-pot-pie/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, veniam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque iusto, animi ad. Sapiente necessitatibus enim ut dicta iure perspiciatis doloribus, nobis praesentium non molestiae ipsam alias impedit unde, rerum at sunt! Suscipit porro molestiae excepturi natus repellat dignissimos eveniet, quas, inventore nesciunt magnam tempora? Commodi aperiam sit provident eveniet recusandae quas repellat eos neque repudiandae enim, nemo, maxime accusantium corrupti rem iste accusamus numquam asperiores, ipsam quidem tempora error nesciunt, placeat suscipit minus?</description>
     </item>
     
     <item>
       <title>Skillet Chicken with Potatoes</title>
-      <link>http://example.org/post/restaurant/</link>
+      <link>/post/restaurant/</link>
       <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
       
-      <guid>http://example.org/post/restaurant/</guid>
+      <guid>/post/restaurant/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem illo dolor excepturi. Quidem quia iste ad, consequatur eius, rerum veritatis sint! Iste numquam nisi eius saepe pariatur necessitatibus obcaecati totam nihil quos aliquid aliquam atque rem dolore delectus, blanditiis, sequi dolorem dolor, a iure et. Dolore consectetur aspernatur veniam cum cumque iusto tenetur placeat ab aperiam debitis enim, vero suscipit itaque accusantium natus distinctio consequatur deleniti eveniet.</description>
     </item>
     
     <item>
       <title>Red Pepper Miso Wings</title>
-      <link>http://example.org/post/my-first-post/</link>
+      <link>/post/my-first-post/</link>
       <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
       
-      <guid>http://example.org/post/my-first-post/</guid>
+      <guid>/post/my-first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi delectus rerum, sed blanditiis eaque eum, ex et officia veritatis id hic. Deleniti eos ipsum, nihil ex id ipsa porro, accusantium, accusamus dignissimos harum, veniam culpa. Voluptate doloremque aspernatur neque vero tenetur numquam expedita ratione, sed, error exercitationem officia voluptatum molestiae quod impedit facilis, dolores laudantium quae rem! Rem obcaecati eum pariatur error quasi consequuntur repellendus aliquam vero perferendis, praesentium. Quas nulla, quae tempore omnis facere reiciendis, voluptatibus illum nemo consequuntur, magni voluptas doloremque eveniet quasi soluta porro sit cum?</description>
     </item>
     
